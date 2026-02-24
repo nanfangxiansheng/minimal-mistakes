@@ -18,8 +18,7 @@ unix作为古早的系统于1971年左右诞生，随后到了1984年，stallman
 ### 磁盘分区
 
 在磁盘分区主要有两种方法，分别是MBR和GPT，检查方式是：在win系统下->磁盘管理->属性->硬件->属性->写入。就可以看到是MBR还是GPT了，一般来说，普通电脑都是MBR的，是传统型，GPT是新出现的，支持的磁盘容量更大。
-
-![image-20250121152712360](/assets/images/linux1.png)
+![image-center1]({{ site.url }}{{ site.baseurl }}/assets/images/linux1.png){: .align-center}
 
 而所谓NFTS是win的文件管理系统，New Technology File System。
 
