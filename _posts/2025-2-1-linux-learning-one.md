@@ -1,6 +1,6 @@
 ---
 title: "Linux系统学习笔记（一）"
-read_time: false
+read_time: True
 tags:
   - read time
 ---
